@@ -9,14 +9,14 @@ for ease of use.
 Technical Specifications:
 Versions Used:
  --> Python 3.13.3
- --> Pillow 10.4.0
- --> PyMySQL 1.1.1
- --> tkcalendar 1.6.1
+ --> Pillow 10.4.0 
+ --> PyMySQL 1.1.1 
+ --> tkcalendar 1.6.1 
  --> MySQL
 
-!!!!IMPORTANT!!!!
- --> Before you use this program. Make sure to change the credentials for your sql database in db_func.py
- --> Run the sql file first to set up the database
+!!!!IMPORTANT!!!! 
+ --> Before you use this program. Make sure to change the credentials for your sql database in db_func.py 
+ --> Run the sql file first to set up the database 
  --> To run the program, open mainmenu.py and then run the file.
 
 Program by M001 | Dequito, Kyla Dessirei L.
